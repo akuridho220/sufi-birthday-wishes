@@ -12,8 +12,8 @@
     let timerInterval;
 
     onMount(() => {
-        //const countDownDate = Date.now() + 3000;
-        const countDownDate = TARGET_DATE; 
+        const countDownDate = Date.now() + 3000;
+        //const countDownDate = TARGET_DATE; 
         
         timerInterval = setInterval(() => {
             const distance = countDownDate - Date.now();
