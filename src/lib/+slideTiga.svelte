@@ -11,10 +11,10 @@
                 " ", 
                 "Barakallah fi umrik. Terima kasih sudah terus bertahan, bertumbuh, dan menjadi versi dirimu yang luar biasa sampai sejauh ini.", 
                 " ", 
-                "- Wish all you the best"
+                "- With Love, Mas Ridho"
             ],
             startDelay: 500,
-            speed: 75,
+            speed: 100,
             waitUntilVisible: true,
             afterComplete: function (instance) {
                 onComplete();

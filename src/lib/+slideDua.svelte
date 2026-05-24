@@ -15,7 +15,7 @@
                 "Semoga harimu selalu hangat, di manapun kamu berada."
             ],
             startDelay: 500,
-            speed: 75,
+            speed: 100,
             waitUntilVisible: true,
             afterComplete: function (instance) {
                 onComplete();
