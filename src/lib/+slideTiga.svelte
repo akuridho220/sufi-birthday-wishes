@@ -7,7 +7,7 @@
     onMount(() => {
         new TypeIt("#teks2", {
             strings: [
-                "Dengan ataupun tanpaku, semoga semesta selalu membahagiakanmu bagimanapun caranya.", 
+                "Entah pas kamu lagi sendiri, lagi seru-seruan bareng temen-temen, atau pas kita lagi ngobrol, semoga semesta selalu membahagiakanmu.", 
                 " ", 
                 "Barakallah fi umrik. Terima kasih sudah terus bertahan, bertumbuh, dan menjadi versi dirimu yang luar biasa sampai sejauh ini.", 
                 " ", 

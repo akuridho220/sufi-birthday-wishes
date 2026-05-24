@@ -6,6 +6,7 @@
     import SlideTiga from "$lib/+slideTiga.svelte";
     import SlideEmpat from "$lib/+slideEmpat.svelte";
     import SlideLima from "$lib/+slideLima.svelte";
+    import Footer from "$lib/+footer.svelte";
     import audio from "$lib/assets/music/monokrom.mp3";
 
     let currentSlide = $state(0); 
@@ -100,4 +101,5 @@
     {#if currentSlide === 5}
         <SlideLima />
     {/if}
+    <Footer />
 </div>
